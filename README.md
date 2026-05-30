@@ -1,15 +1,13 @@
 # Bike Sales Dashboard
 
-# Interactive Retail Performance Dashboard 
+![Dashboard Overview](images/Preview_1.png)
 
 ## Deskripsi Projek
 Projek ini merupakan eksplorasi analitika data menggunakan Microsoft Excel untuk mentransformasi data mentah transaksi penjualan sepeda (*Bike Sales Dataset*) menjadi sebuah dashboard interaktif yang siap pakai untuk level manajemen (*Executive Dashboard*). Projek ini berfokus pada pemahaman fundamen analisis data, manajemen *spreadsheet*, manipulasi formula, dan prinsip visualisasi data yang *user-friendly*.
 
 ---
 
-## 📝 Data Cleaning & Quality Log
-Berdasarkan proses audit data yang dilakukan pada sheet `Logs`, berikut adalah ringkasan kualitas dari dataset yang digunakan:
-
+## Data Cleaning & Quality Log
 * **Volume Data:** Terdapat total **112.036 data** transaksi di dalam dataset awal.
 * **Data Duplikat:** Ditemukan sebanyak **1.000 data duplikat** (sekitar 8% dari keseluruhan data). Proses *delete duplicate* telah dilakukan dan karena jumlahnya yang sedikit, penghapusan ini **tidak berpengaruh secara signifikan** terhadap hasil analisis data akhir.
 * **Validitas & Konsistensi Data:** Setelah diaudit, **tidak ditemukan *missing data*** (data kosong), tidak ada *value* data yang tidak konsisten, serta tidak ditemukan *value* yang tidak masuk akal (semua data berada dalam rentang batas logis).
@@ -24,14 +22,11 @@ Projek ini dirancang untuk menjawab dua kebutuhan analisis utama:
 ---
 
 ##  Dashboard Preview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](images/Preview_2.png)
 
 ---
 
-## 💡 Business Insights (Placeholders)
-
-> *[Catatan: Bagian ini dapat diperbarui atau disesuaikan kembali berdasarkan hasil eksplorasi Slicer pada dashboard Anda]*
-
+## Business Insights
 * **Tren Performa Tahunan:** 
 * **Profil Pelanggan Berdasarkan Negara:**
 
@@ -40,4 +35,4 @@ Projek ini dirancang untuk menjawab dua kebutuhan analisis utama:
 ## 📂 Struktur Repositori
 * `data/` : Berisi file data mentah (*raw data*).
 * `dashboard/` : File utama Microsoft Excel (`.xlsx`) yang memuat tabel data, pivot, data log, dan dashboard interaktif.
-* `screenshots/` : Dokumentasi visual atau gambar dashboard untuk keperluan operasional.
+* `images/` : Dokumentasi visual atau gambar dashboard untuk keperluan operasional.

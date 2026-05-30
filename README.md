@@ -1,6 +1,6 @@
 # Bike Sales Dashboard
 
-![Dashboard Overview](images/Preview_1.png)
+![Dashboard Overview](images/Preview 1.png)
 
 ## Deskripsi Projek
 Projek ini merupakan eksplorasi analitika data menggunakan Microsoft Excel untuk mentransformasi data mentah transaksi penjualan sepeda (*Bike Sales Dataset*) menjadi sebuah dashboard interaktif yang siap pakai untuk level manajemen (*Executive Dashboard*). Projek ini berfokus pada pemahaman fundamen analisis data, manajemen *spreadsheet*, manipulasi formula, dan prinsip visualisasi data yang *user-friendly*.

@@ -33,3 +33,6 @@ Projek ini dirancang untuk menjawab dua kebutuhan analisis utama:
 * `data/` : Berisi file data mentah (*raw data*).
 * `dashboard/` : File dashboard Microsoft Excel (`.xlsx`)
 * `images/` : Dokumentasi visual atau gambar dashboard untuk keperluan operasional.
+
+## Tools yang Digunakan
+* Ms. Excel
